@@ -7,4 +7,5 @@ import { multiply } from "./functions/map.js";
 const myArray2 = [1,2,3,4,5,6,7,8,9,10];
 console.log(multiply(myArray2));
 
-
+import { reduce } from "./functions/reduce.js";
+console.log(reduce(myArray2));
